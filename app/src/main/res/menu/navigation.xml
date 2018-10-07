@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_linear"
+        android:icon="@mipmap/linear"
+        android:title="@string/title_linear" />
+
+    <item
+        android:id="@+id/navigation_relative"
+        android:icon="@mipmap/relative"
+        android:title="@string/title_relative" />
+
+    <item
+        android:id="@+id/navigation_constraint"
+        android:icon="@mipmap/constraint"
+        android:title="@string/title_constraint" />
+
+</menu>

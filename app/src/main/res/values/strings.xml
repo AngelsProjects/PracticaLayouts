@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Practica Layouts</string>
+    <string name="title_linear">Linear Layout</string>
+    <string name="title_relative">Relative Layout</string>
+    <string name="title_constraint">Constraint Layout</string>
+    <string name="avatar1Description">This</string>
+    <string name="avatar2Description">is</string>
+    <string name="avatar3Description">a</string>
+    <string name="avatar4Description">matrix</string>
+    <string name="avatar5Description">with</string>
+    <string name="avatar6Description">size</string>
+    <string name="avatar7Description">of</string>
+    <string name="avatar8Description">3 heigth</string>
+    <string name="avatar9Description">3 width</string>
+    <string name="btn_one">First Button</string>
+    <string name="btn_two">Second Button</string>
+    <string name="btn_three">Third Button</string>
+    <string name="btn_four">Fourth Button</string>
+    <string name="btn_five">Fifth Button</string>
+    <string name="btn_six">Sixth Button</string>
+    <string name="btn_seven">Seventh Button</string>
+    <string name="btn_eight">Eighth Button</string>
+    <string name="btn_nine">Ninth Button</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
